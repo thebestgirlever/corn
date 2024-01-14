@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/corn/static/css/main.9ac4d6a8.css",
+    "main.js": "/corn/static/js/main.054dd082.js",
+    "static/media/corn.png": "/corn/static/media/corn.58faa838596369273748.png",
+    "static/media/wheat.png": "/corn/static/media/wheat.181e9c294915ef6c9693.png",
+    "static/media/barley.png": "/corn/static/media/barley.669f73bb49982e3cc9b0.png",
+    "static/media/oats.png": "/corn/static/media/oats.23796546d2cbe7003a81.png",
+    "static/media/soybeans.png": "/corn/static/media/soybeans.a0f7f8abebe900b64901.png",
+    "static/media/canola.png": "/corn/static/media/canola.f37be431819fd97fb422.png",
+    "index.html": "/corn/index.html",
+    "main.9ac4d6a8.css.map": "/corn/static/css/main.9ac4d6a8.css.map",
+    "main.054dd082.js.map": "/corn/static/js/main.054dd082.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9ac4d6a8.css",
+    "static/js/main.054dd082.js"
+  ]
+}
